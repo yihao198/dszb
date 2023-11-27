@@ -74,6 +74,8 @@ CGTN法语 ,https://live.metshop.top/msp.php?id=cgtnf
 CGTN阿语 ,https://live.metshop.top/msp.php?id=cgtna
 CGTN俄语 ,https://live.metshop.top/msp.php?id=cgtnr
 
+CCTV1综合高清,http://42.176.185.28:9901/tsfile/live/1022_1.m3u8
+
 
 卫视,#genre#
 重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
@@ -138,7 +140,7 @@ CGTN俄语 ,https://live.metshop.top/msp.php?id=cgtnr
 泉州新闻(一套),https://live.qztv.cn/live/news.m3u8?auth_key=1700817687-0-0-a0cf10f569fafcc842f5f2d878d83afe
 泉州闽南语(四套),https://live.qztv.cn/live/mny.m3u8?auth_key=1700818160-0-0-f1498a6a20e0f5cd391c475f593797c5
 
-港澳台,#genre#
+港澳,#genre#
 凤凰卫视中文台,https://pi.0472.org/tv/fhzw.php?auth=231122
 凤凰卫视中文台,https://qist.cc/live/sc.php?id=fhws
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -151,3 +153,40 @@ CGTN俄语 ,https://live.metshop.top/msp.php?id=cgtnr
 奥亚卫视,https://pi.0472.org/tv/aoya.php?auth=231122
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+
+台湾台,#genre#
+台视新闻,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156398&extension=ts
+台视综合,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156392&extension=ts
+台視HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1047
+三立台灣,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1061
+三立台灣HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1021
+三立国际,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156390&extension=ts
+三立新聞,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1079
+三立新聞HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1016
+三立都會HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1020
+岭南戏曲,http://120.236.57.77:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+人間衛視,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1198
+人間衛視,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1198
+中天娛樂HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1023
+中天新聞HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1015
+中天綜合HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1022
+中視HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1048
+壹新聞,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242
+大愛電視,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1216
+天映经典,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571182&extension=ts
+天映经典2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=683110&extension=ts
+天映频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941618&extension=ts
+天映频道2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571218&extension=ts
+好消息頻道,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1231
+年代新聞,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1192
+年代新聞台,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1077
+星空卫视,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=683118&extension=ts
+東森幼幼HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1008
+東森戲劇HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1042
+東森新聞HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1014
+東森綜合HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1041
+東森財經HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1017
+東風衛視,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1195
+民視HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1050
+民視新聞,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1204
+民视新闻,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156389&extension=ts
