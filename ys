@@ -46,6 +46,7 @@ CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/888
 
 📡卫视(4K),#genre#
 东南卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001201/index.m3u8?
+厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 湖南卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?
 浙江卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001023/index.m3u8?
 江苏卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001033/index.m3u8?
@@ -89,8 +90,8 @@ CCTV1综合,http://tvpull.dxhmt.cn/tv/11481-2.m3u8
 https://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 
-CCTV3综艺–已注释
-CCTV3综艺http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
+CCTV3综艺–已注释取消
+CCTV3综艺,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
 
 CCTV4中文国际,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?&encrypt=
 CCTV5体育,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=
@@ -110,54 +111,33 @@ CCTV15音乐,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/
 
 【央视1】
 CCTV1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-
 CCTV1综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-
 CCTV2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
-
 CCTV2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-
 CCTV3综艺,http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8
-
 CCTV4中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4中文国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-
 CCTV5体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-
 CCTV5体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-
 CCTV6电影,http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8
 CCTV6电影,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
-
 CCTV7国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-
 CCTV8电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV8电视剧,http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8
-
 CCTV9纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
-
 CCTV9纪录,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV9纪录,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
-
 CCTV10科教,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
-
 CCTV10科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
-
 CCTV13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-
 CCTV13新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV13新闻,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
-
 CCTV14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8?
-
 CCTV15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
-
 CCTV16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-
 CCTV16奥林匹克,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV16奥林匹克,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 
@@ -301,14 +281,14 @@ CCTV16奥林匹克,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 🐬馋嘴鱼,#genre#
 泉州新闻(一套),https://live.qztv.cn/live/news.m3u8?auth_key=1700817687-0-0-a0cf10f569fafcc842f5f2d878d83afe
 泉州闽南语(四套),https://live.qztv.cn/live/mny.m3u8?auth_key=1700818160-0-0-f1498a6a20e0f5cd391c475f593797c5
+厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8
 石狮电视台,http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8
 德化电视台,http://218.106.152.196/lsdream/2LacKP6/1024/live.m3u8
 福建综合,http://p2.vzan.com/slowlive/615011390007575184/live.m3u8
 福建综合,http://fjnhdb.chinashadt.com:2036/live/stream:10003.stream/chunklist.m3u8
 东南卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001201/index.m3u8?
-福州一台,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-福州三台,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-福州四台,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+海峡卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hxwshd4m/4000000/mnf.m3u8
+海博TV,http://218.106.152.196/lsdream/f2Hfjtd/5000/live.m3u8
 漳州一台,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 三明一台,http://stream.smntv.cn/smtv1/sd/live.m3u8
 三明二台,http://stream.smntv.cn/smtv2/sd/live.m3u8
