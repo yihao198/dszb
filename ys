@@ -1,6 +1,6 @@
-|  ｜Ⅰ
+|  ｜Ⅰ 
 
-🇨🇳|央视(V6),#genre#
+🇨🇳央视(V6),#genre#
      ipv6-4K.txt
      
 CCTV1「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?
@@ -48,7 +48,7 @@ CHC高清电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/888
 CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 
 
-📡|卫视(V6),#genre#
+📡｜卫视(V6),#genre#
       ipv6-4K.txt
       
 东南卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001201/index.m3u8?
@@ -88,7 +88,7 @@ CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/888
 
 
 
-🇨🇳|央视,#genre#
+🇨🇳央视,#genre#
       🐉
 「宝全5.1.0内置1线」.txt
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
@@ -150,7 +150,7 @@ CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
 
-📺|卫视,#genre#
+📺卫视,#genre#
 
 「宝全5.1.0内置1线」.txt
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
@@ -192,7 +192,7 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 吉林卫视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1m3u8
 
 
-🗼|移动,#genre#
+🗼移动,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -319,7 +319,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 
-🐬|馋嘴鱼,#genre#
+🐬馋嘴鱼,#genre#
 泉州新闻(一套),https://live.qztv.cn/live/news.m3u8?auth_key=1700817687-0-0-a0cf10f569fafcc842f5f2d878d83afe
 泉州闽南语(四套),https://live.qztv.cn/live/mny.m3u8?auth_key=1700818160-0-0-f1498a6a20e0f5cd391c475f593797c5
 福建综合,http://p2.vzan.com/slowlive/615011390007575184/live.m3u8
@@ -350,7 +350,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 
-🌇|港澳,#genre#
+🌇港澳,#genre#
 凤凰卫视中文台,https://pi.0472.org/tv/fhzw.php?auth=231122
 凤凰卫视中文台,https://qist.cc/live/sc.php?id=fhws
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -365,7 +365,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 
-🌅|台湾台,#genre#
+🌅｜台湾台,#genre#
      电报chinatv.txt
 
 民視,rtmp://9sv2.mine.nu:1935/sat/tv051
@@ -562,7 +562,7 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 
 
 
-👶|少儿(4K),#genre#
+👶少儿(4K),#genre#
      ipv6-4K.txt
 
 卡酷少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
@@ -576,7 +576,7 @@ CCTV14,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001240/index.m
 
 
        🎶音乐MV💿📡🗼
-📀|馋嘴鱼MV,#genre#
+📀馋嘴鱼MV,#genre#
       【ipv6-4K.txt】
 馋嘴鱼MV集,https://cloud.lxweb.cn/f/9kXkC1/%E5%8F%AF%E8%83%BD.mp4
 馋嘴鱼DJ集①,https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
@@ -624,10 +624,10 @@ CCTV14,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001240/index.m
 陈慧娴-千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
 叶倩文-曾經心痛,http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
 
-王琪 | 站着等你三千年,https://vdse.bdstatic.com//967f216dea39a6f3ccb44884a219f8ff.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A33Z%2F-1%2Fhost%2F35aa2c099605e74a562ca0358f457186636ef317d486aa3ed6f60fc45c2c6c9a
+王琪 Ⅰ 站着等你三千年,https://vdse.bdstatic.com//967f216dea39a6f3ccb44884a219f8ff.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A33Z%2F-1%2Fhost%2F35aa2c099605e74a562ca0358f457186636ef317d486aa3ed6f60fc45c2c6c9a
 
 
-🎸|MTV现代,#genre#
+🎸MTV现代,#genre#
 【搜索 live. txt】
 堕-戴羽彤,https://vd3.bdstatic.com/mda-pe8yinxx1y1dpsxk/720p/h264/1683673132967321820/mda-pe8yinxx1y1dpsxk.mp4
 海市蜃楼 - 一颗狼星,https://vd3.bdstatic.com/mda-pcp5fx5bfrctx9pu/sc/cae_h264/1679635523924099179/mda-pcp5fx5bfrctx9pu.mp4
@@ -868,7 +868,7 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 爱的世界只有你_孟小笛,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7fi-4gUolta2hgU.mp4
 
 
-🎢|中国旅游,#genre#
+🎢中国旅游,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
