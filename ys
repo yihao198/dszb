@@ -48,7 +48,7 @@ CHC高清电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/888
 CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 
 
-📡｜卫视(V6),#genre#
+📡卫视(V6),#genre#
       ipv6-4K.txt
       
 东南卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001201/index.m3u8?
@@ -365,7 +365,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 
-🌅｜台湾台,#genre#
+🌅台湾台,#genre#
      电报chinatv.txt
 
 民視,rtmp://9sv2.mine.nu:1935/sat/tv051
