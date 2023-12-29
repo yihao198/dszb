@@ -413,9 +413,14 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
+----【IPV6线路】-梅林检测.txt--------------------
+凤凰中文-V6,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯-V6,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰香港-V6,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+-------------------------------------------
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
-------------------------------------
+---------------其他原来---------------------
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 ------------------------------------
@@ -443,6 +448,18 @@ Hands Up,mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
 HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
+
+----梅林检测.txt--------------
+TVB翡翠台,http://r.jdshipin.com/qClQf
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+  TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
+  有線新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+  GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+GOODTV旅行,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+  人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+  --------------------------------------------
+  
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
@@ -470,7 +487,9 @@ TVBS新闻,rtmp://9sv2.mine.nu:1935/sat/tv551
 緯來體育,rtmp://9sv2.mine.nu:1935/sat/tv721
 ELEVEN2,rtmp://9sv2.mine.nu:1935/sat/md041
 ELTA體育2,rtmp://9sv2.mine.nu/sat/md051
-
+------梅林检测.txt-----------
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+-----------------------------------
 
 台湾台【晴天1217–宝全QQ群.txt】
 
