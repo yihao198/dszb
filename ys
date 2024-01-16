@@ -698,10 +698,9 @@ tvbs新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 东森综合,http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
-龙华偶像,http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+龙华偶像1,http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
 八大戏剧,http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
 GO好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
-番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 ______台湾_春盈天下20240116__检测___
 
 
@@ -1079,13 +1078,13 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 爱情废柴_周杰伦,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5PbQ7AUogOO80gI.mp4
 爱的世界只有你_孟小笛,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7fi-4gUolta2hgU.mp4
 
+
+
 🍁收音广播,#genre#
                     👉全网
-__________春盈天下20240116___________
+_______春盈天下20240116_检测_________
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 厦门音乐广播0*0][0*0],http://ls.qingting.fm/live/1739.m3u8
-厦门音乐广播0*0][0*0],http://ls.qingting.fm/live/1739.m3u8
-厦门新闻广播0*0][0*0],http://ls.qingting.fm/live/1737.m3u8
 厦门新闻广播0*0][0*0],http://ls.qingting.fm/live/1737.m3u8
 楚天音乐广播 FM105.8 (Opt-1)[0*0],http://ls.qingting.fm/live/1289.m3u8
 楚天交通广播 FM92.7[0*0],http://ls.qingting.fm/live/1291.m3u8
@@ -1095,32 +1094,24 @@ __________春盈天下20240116___________
 襄阳音乐广播[0*0],http://ls.qingting.fm/live/5057.m3u8
 北京房山经典音乐 FM96.90*0][0*0],http://live.xmcdn.com/live/963/64.m3u8
 北京房山经典音乐 FM96.90*0][0*0],http://ls.qingting.fm/live/68746.m3u8
-北京房山经典音乐 FM96.90*0][0*0],http://ls.qingting.fm/live/68746.m3u8
 重庆新闻广播 FM96.80*0][0*0],http://live.xmcdn.com/live/128/64.m3u8
 重庆新闻广播 FM96.80*0][0*0],http://ls.qingting.fm/live/1498.m3u8
 重庆经济广播 FM101.50*0][0*0],http://ls.qingting.fm/live/1499.m3u8
-重庆经济广播 FM101.50*0][0*0],http://ls.qingting.fm/live/1499.m3u8
 重庆交通广播 FM95.50*0][0*0],http://live.xmcdn.com/live/130/64.m3u8
-重庆交通广播 FM95.50*0][0*0],http://ls.qingting.fm/live/1500.m3u8
 重庆交通广播 FM95.50*0][0*0],http://ls.qingting.fm/live/1500.m3u8
 重庆音乐广播 FM88.10*0][0*0],http://live.xmcdn.com/live/131/64.m3u8
 重庆音乐广播 FM88.10*0][0*0],http://ls.qingting.fm/live/647.m3u8
-重庆音乐广播 FM88.10*0][0*0],http://ls.qingting.fm/live/647.m3u8
 重庆都市广播 FM93.80*0][0*0],http://live.xmcdn.com/live/132/64.m3u8
-重庆都市广播 FM93.80*0][0*0],http://ls.qingting.fm/live/1502.m3u8
 重庆都市广播 FM93.80*0][0*0],http://ls.qingting.fm/live/1502.m3u8
 巴渝之声 FM104.50*0][0*0],http://ls.qingting.fm/live/3545693.m3u8
 万州交通广播0*0][0*0],http://live.xmcdn.com/live/1679/64.m3u8
 
 兰州新闻综合广播 FM97.30*0][0*0],http://ls.qingting.fm/live/1712.m3u8
-兰州新闻综合广播 FM97.30*0][0*0],http://ls.qingting.fm/live/1712.m3u8
 兰州交通音乐广播 FM99.50*0][0*0],http://ls.qingting.fm/live/1711.m3u8
 兰州生活文艺广播 FM100.80*0][0*0],http://ls.qingting.fm/live/1713.m3u8
 广州新闻电台 FM96.20*0][0*0],http://live.xmcdn.com/live/256/64.m3u8
 广州新闻电台 FM96.20*0][0*0],http://ls.qingting.fm/live/4848.m3u8
-广州新闻电台 FM96.20*0][0*0],http://ls.qingting.fm/live/4848.m3u8
 广州汽车音乐电台 FM102.70*0][0*0],http://live.xmcdn.com/live/257/64.m3u8
-广州汽车音乐电台 FM102.70*0][0*0],http://ls.qingting.fm/live/52710.m3u8
 广州汽车音乐电台 FM102.70*0][0*0],http://ls.qingting.fm/live/52710.m3u8
 广州交通电台 FM106.10*0][0*0],http://ls.qingting.fm/live/4955.m3u8
 广州 MYFM 88.0 (都市生活)0*0][0*0],http://ls.qingting.fm/live/52712.m3u8
@@ -1262,10 +1253,8 @@ __________春盈天下20240116___________
 鹤壁交通音乐广播 FM93.5[0*0],http://ls.qingting.fm/live/3032681.m3u8
 龙广交通广播 FM99.8[0*0],http://ls.qingting.fm/live/4973.m3u8
 龙广新闻广播 FM94.6[0*0],http://ls.qingting.fm/live/4974.m3u8
-龙广新闻广播 FM94.6[0*0],http://ls.qingting.fm/live/4974.m3u8
 龙广音乐广播 FM95.8[0*0],http://ls.qingting.fm/live/4969.m3u8
-龙广音乐广播 FM95.8[0*0],http://ls.qingting.fm/live/4969.m3u8
-__________春盈天下20240116___________
+________春盈天下20240116__检测_________
 
 
 
