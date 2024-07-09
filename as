@@ -1,4 +1,4 @@
-{"spider":"./sx.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
+{"spider":"http://dp.sxtv.top:88/sx.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
 "wallpaper":"http://dp.sxtv.top:88/bizhi.php",
 "warningText": "【馋嘴鱼影视】完全免费，切勿付费购买!",
 "lives":
@@ -12,7 +12,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "jar":"./s.jar"
+            "jar":"http://dp.sxtv.top:88/s.jar"
         },
 		{
 		    "key": "馋嘴鱼影视",
@@ -32,7 +32,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-             "ext": "./json/Bili.json"
+             "ext": "http://dp.sxtv.top:88/json/Bili.json"
         },
         {
             "key":"玩偶",
@@ -82,7 +82,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/鲸落.json"
+            "ext": "http://dp.sxtv.top:88/json/鲸落.json"
         },
         {
 			"key": "LW",
@@ -207,8 +207,8 @@
             "key": "网飞影视",
             "name": "影视 | 网飞",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/网飞TV.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/网飞TV.js"
         },
         {
             "key": "一起看",
@@ -232,22 +232,22 @@
             "key": "不开心",
             "name": "影视 | 不开心",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/不开心.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/不开心.js"
         },
         {
             "key": "追剧迷",
             "name": "影视 | 追剧迷",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/追剧迷.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/追剧迷.js"
         },
         {
             "key": "两个磁力",
             "name": "影视 | 两个磁力",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/两个磁力.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/两个磁力.js"
         },
         {
             "key": "策驰影院",
@@ -257,7 +257,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/cechi.json"
+            "ext": "http://dp.sxtv.top:88/json/cechi.json"
         },
         {
             "key": "圣城影视",
@@ -267,7 +267,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/圣城影视.json"
+            "ext": "http://dp.sxtv.top:88/json/圣城影视.json"
         },
         {
             "key": "萌猫影视",
@@ -277,7 +277,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/萌猫影视.json"
+            "ext": "http://dp.sxtv.top:88/json/萌猫影视.json"
         },
         {
             "key": "爱看影视",
@@ -287,7 +287,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/爱看影视.json"
+            "ext": "http://dp.sxtv.top:88/json/爱看影视.json"
         },
         {
             "key":"maolvys",
@@ -327,7 +327,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/蛋蛋影视.json"
+            "ext": "http://dp.sxtv.top:88/json/蛋蛋影视.json"
         },
         {
             "key": "ysjj-duo",
@@ -357,49 +357,49 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/qty.py"
+            "ext": "http://dp.sxtv.top:88/json/qty.py"
         },
         {
             "key": "310看球",
             "name": "体育 | 310看球",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/310直播.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/310直播.js"
         },
         {
             "key": "JRKAN直播",
             "name": "体育 | JRKAN直播",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/JRKAN直播.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/JRKAN直播.js"
         },
         {
              "key": "网络直播",
              "name": "直播 | 综合直播",
              "type": 3,
-             "api": "./js/drpy.min.js",
-            "ext": "./js/JustLive.js"
+             "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/JustLive.js"
         },
         {
             "key": "斗鱼直播",
             "name": "直播 | 斗鱼",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/斗鱼直播.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/斗鱼直播.js"
         },
         {
             "key": "虎牙直播",
             "name": "直播 | 虎牙",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/虎牙直播.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/虎牙直播.js"
         },
         {
             "key": "哔哩直播",
             "name": "直播 | 哔哩哔哩",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/哔哩直播.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/哔哩直播.js"
         },
         {
             "key": "网易CC",
@@ -409,7 +409,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/网易CC.json"
+            "ext": "http://dp.sxtv.top:88/json/网易CC.json"
         },
         {
             "key": "樱花动漫",
@@ -425,29 +425,29 @@
             "key": "AnFuns",
             "name": "动漫 | AnFuns",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/AnFuns.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/AnFuns.js"
         },
         {
             "key": "AGE动漫",
             "name": "动漫 | AGE",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/AGE动漫.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/AGE动漫.js"
         },
         {
             "key": "NT动漫",
             "name": "动漫 | NT动漫",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/NT动漫.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/NT动漫.js"
         },
         {
             "key": "58动漫",
             "name": "动漫 | 58动漫",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/58动漫.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/58动漫.js"
         },
         {
             "key": "二三三",
@@ -457,42 +457,42 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/二三三.json"
+            "ext": "http://dp.sxtv.top:88/json/二三三.json"
         },
         {
             "key": "路漫漫",
             "name": "动漫 | 路漫漫",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/路漫漫.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/路漫漫.js"
         },
         {
             "key": "动漫岛",
             "name": "动漫 | 动漫岛",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/动漫岛.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/动漫岛.js"
         },
         {
             "key": "去看吧",
             "name": "动漫 | 去看吧",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/去看吧.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/去看吧.js"
         },
         {
             "key": "爱弹幕",
             "name": "动漫 | 爱弹幕",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/爱弹幕.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/爱弹幕.js"
         },
         {
             "key": "异世界",
             "name": "动漫 | 异世界",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/异世界.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/异世界.js"
         },
         {
             "key": "plipili",
@@ -508,8 +508,8 @@
             "key": "曲奇动漫",
             "name": "动漫 | 曲奇动漫",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/曲奇动漫.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/曲奇动漫.js"
         },
         {
             "key": "MX动漫",
@@ -525,22 +525,22 @@
             "key": "妮可动漫",
             "name": "动漫 | 妮可动漫",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/妮可动漫.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/妮可动漫.js"
         },
         {
             "key": "奇米动漫",
             "name": "动漫 | 奇米动漫",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/奇米动漫.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/奇米动漫.js"
         },
         {
             "key": "怡萱动漫",
             "name": "动漫 | 怡萱动漫",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/怡萱动漫.js"
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/怡萱动漫.js"
         },
         {
             "key": "维奇动漫",
@@ -550,7 +550,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./json/维奇动漫.json"
+            "ext": "http://dp.sxtv.top:88/json/维奇动漫.json"
         },
         {
             "key": "动漫巴士",
@@ -560,14 +560,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./json/动漫巴士.json"
+            "ext": "http://dp.sxtv.top:88/json/动漫巴士.json"
         },
         {
             "key": "兔小贝",
             "name": "教育 | 儿童启蒙",
             "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/兔小贝.js",
+            "api": "http://dp.sxtv.top:88/js/drpy.min.js",
+            "ext": "http://dp.sxtv.top:88/js/兔小贝.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -580,7 +580,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童拼音.json"
+            "ext": "http://dp.sxtv.top:88/json/儿童拼音.json"
         },
         {
             "key": "儿童识字",
@@ -590,7 +590,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童识字.json"
+            "ext": "http://dp.sxtv.top:88/json/儿童识字.json"
         },
         {
             "key": "儿童英语",
@@ -600,7 +600,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童英语.json"
+            "ext": "http://dp.sxtv.top:88/json/儿童英语.json"
         },
         {
             "key": "儿童硬笔",
@@ -610,7 +610,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童硬笔.json"
+            "ext": "http://dp.sxtv.top:88/json/儿童硬笔.json"
         },
         {
             "key": "儿童思维",
@@ -620,7 +620,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童思维.json"
+            "ext": "http://dp.sxtv.top:88/json/儿童思维.json"
         },
         {
             "key": "儿童口才",
@@ -630,7 +630,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童口才.json"
+            "ext": "http://dp.sxtv.top:88/json/儿童口才.json"
         },
         {
             "key": "儿童编程",
@@ -640,7 +640,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童编程.json"
+            "ext": "http://dp.sxtv.top:88/json/儿童编程.json"
         },
         {
             "key": "儿童武术",
@@ -650,7 +650,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/儿童武术.json"
+            "ext": "http://dp.sxtv.top:88/json/儿童武术.json"
         },
         {
             "key": "少儿教育",
@@ -660,7 +660,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/少儿教育.json"
+            "ext": "http://dp.sxtv.top:88/json/少儿教育.json"
         },
         {
             "key": "小学课堂",
@@ -670,7 +670,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/小学课堂.json"
+            "ext": "http://dp.sxtv.top:88/json/小学课堂.json"
         },
         {
             "key": "初中课堂",
@@ -680,7 +680,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/初中课堂.json"
+            "ext": "http://dp.sxtv.top:88/json/初中课堂.json"
         },
         {
             "key": "高中教育",
@@ -690,7 +690,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/高中课堂.json"
+            "ext": "http://dp.sxtv.top:88/json/高中课堂.json"
         },
         {
             "key": "外语课堂",
@@ -700,7 +700,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/外语课堂.json"
+            "ext": "http://dp.sxtv.top:88/json/外语课堂.json"
         },
         {
             "key": "小灯塔百科",
@@ -710,7 +710,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/小灯塔百科.json"
+            "ext": "http://dp.sxtv.top:88/json/小灯塔百科.json"
         },
         {
             "key": "小灯塔科学",
@@ -720,7 +720,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/小灯塔科学.json"
+            "ext": "http://dp.sxtv.top:88/json/小灯塔科学.json"
         },
         {
             "key": "小灯塔地理",
@@ -730,7 +730,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/小灯塔地理.json"
+            "ext": "http://dp.sxtv.top:88/json/小灯塔地理.json"
         },
         {
             "key": "小灯塔国学",
@@ -740,7 +740,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/小灯塔国学.json"
+            "ext": "http://dp.sxtv.top:88/json/小灯塔国学.json"
         },
         {
             "key": "小灯塔人文",
@@ -750,7 +750,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/小灯塔人文.json"
+            "ext": "http://dp.sxtv.top:88/json/小灯塔人文.json"
         },
         {
             "key":"PanSearch",
@@ -761,8 +761,8 @@
             "changeable":1, 
             "filterable":1, 
             "timeout":30, 
-            "jar":"./dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
-            "ext":"./lib/tokenm.json"
+            "jar":"http://dp.sxtv.top:88/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
+            "ext":"http://dp.sxtv.top:88/lib/tokenm.json"
         },
         {
             "key":"易搜",
@@ -770,8 +770,8 @@
             "type":3,
             "api":"csp_YiSo",
             "timeout":30, 
-            "jar":"./dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
-            "ext":"./lib/tokenm.json$$$./lib/yiso.txt"
+            "jar":"http://dp.sxtv.top:88/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
+            "ext":"http://dp.sxtv.top:88/lib/tokenm.json$$$http://dp.sxtv.top:88/lib/yiso.txt"
         },
         {
             "key":"混合盘",
@@ -779,8 +779,8 @@
             "type":3,
             "api":"csp_HunHePan",
             "timeout":30, 
-            "jar":"./dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
-            "ext":"./lib/tokenm.json"
+            "jar":"http://dp.sxtv.top:88/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
+            "ext":"http://dp.sxtv.top:88/lib/tokenm.json"
         },
         {
             "key":"秒搜",
@@ -788,8 +788,8 @@
             "type":3,
             "api":"csp_MiaoSou",
             "timeout":30, 
-            "jar":"./dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
-            "ext":"./lib/tokenm.json"
+            "jar":"http://dp.sxtv.top:88/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
+            "ext":"http://dp.sxtv.top:88/lib/tokenm.json"
         },
         {
             "key":"DaPanSo",
@@ -800,8 +800,8 @@
             "changeable":1, 
             "filterable":1, 
             "timeout":30,
-            "jar":"./dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7", 
-            "ext":"./lib/tokenm.json$$$https://dapanso.com$$$null"
+            "jar":"http://dp.sxtv.top:88/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7", 
+            "ext":"http://dp.sxtv.top:88/lib/tokenm.json$$$https://dapanso.com$$$null"
         },
         {
             "key":"PikaSo",
@@ -812,8 +812,8 @@
             "changeable":1, 
             "filterable":1,
             "timeout":30,
-            "jar":"./dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7", 
-            "ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null"
+            "jar":"http://dp.sxtv.top:88/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7", 
+            "ext":"http://dp.sxtv.top:88/lib/tokenm.json$$$https://www.pikaso.top/$$$null"
         },
         {
             "key":"Qianfan",
@@ -824,7 +824,7 @@
             "changeable":1, 
             "filterable":1, 
             "timeout":30, 
-            "ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt"
+            "ext":"http://dp.sxtv.top:88/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$http://dp.sxtv.top:88/lib/qianfan.txt"
         },
         {
             "key":"YunSo",
@@ -835,8 +835,8 @@
             "changeable":1, 
             "filterable":1, 
             "timeout":30,
-            "jar":"./dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7", 
-            "ext":"./lib/tokenm.json"
+            "jar":"http://dp.sxtv.top:88/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7", 
+            "ext":"http://dp.sxtv.top:88/lib/tokenm.json"
         },
         {
             "key":"YunPanOne",
@@ -847,8 +847,8 @@
             "changeable":1, 
             "filterable":1, 
             "timeout":30, 
-            "jar":"./dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
-            "ext":"./lib/tokenm.json"
+            "jar":"http://dp.sxtv.top:88/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
+            "ext":"http://dp.sxtv.top:88/lib/tokenm.json"
         },
         {
             "key":"Dovx", 
@@ -859,8 +859,8 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "timeout":30, 
-            "jar":"./dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
-            "ext":"./lib/tokenm.json" 
+            "jar":"http://dp.sxtv.top:88/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
+            "ext":"http://dp.sxtv.top:88/lib/tokenm.json" 
         },
         {
             "key":"Gitcafe",
@@ -871,8 +871,8 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "timeout":30, 
-            "jar":"./dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
-            "ext":"./lib/tokenm.json" 
+            "jar":"http://dp.sxtv.top:88/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
+            "ext":"http://dp.sxtv.top:88/lib/tokenm.json" 
         },
         {
             "key":"找资源", 
@@ -883,8 +883,8 @@
             "quickSearch":1, 
             "filterable": 0, 
             "timeout":30, 
-            "jar":"./dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
-            "ext":"./lib/tokenm.json$$$user$$$pass" 
+            "jar":"http://dp.sxtv.top:88/dm.jar;md5;006144514d4e59ac6f4a0e5f5ff601e7",
+            "ext":"http://dp.sxtv.top:88/lib/tokenm.json$$$user$$$pass" 
         }
     ],
     "parses": [
