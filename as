@@ -1,12 +1,12 @@
 {"spider":"./sx.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
-"wallpaper":"./bizhi.php",
-"warningText": "馋嘴鱼影视完全免费，切勿付费购买!",
+"wallpaper":"http://dp.sxtv.top:88/bizhi.php",
+"warningText": "【馋嘴鱼影视】完全免费，切勿付费购买!",
 "lives":
-	[{"name":"live","type":0,"url":"./zhibo.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"}],
+	[{"name":"live","type":0,"url":"http://dp.sxtv.top:88/zhibo.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"}],
     "sites": [
         {
             "key": "gongzhong",
-            "name": "馋嘴鱼影视公众号：",
+            "name": "【馋嘴鱼影视】",
             "type": 3,
             "api": "csp_FengGo",
             "searchable": 1,
